@@ -376,8 +376,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="192" />
     <option name="y" value="21" />
-    <option name="width" value="878" />
-    <option name="height" value="707" />
+    <option name="width" value="879" />
+    <option name="height" value="708" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -434,21 +434,11 @@
     </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.newInfor2frim.html">
-    <configuration name="2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/total/2.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/total/4.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="Untitled-1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/total/Untitled-1.html" useFirstLineBreakpoints="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="newInfo2men.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/total/newInfo2men.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="newInfor2frim.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/total/newInfor2frim.html">
-      <method v="2" />
-    </configuration>
+    <configuration name="2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/total/2.html" />
+    <configuration name="4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/total/4.html" />
+    <configuration name="Untitled-1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/total/Untitled-1.html" useFirstLineBreakpoints="true" />
+    <configuration name="newInfo2men.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/total/newInfo2men.html" />
+    <configuration name="newInfor2frim.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/total/newInfor2frim.html" />
     <list>
       <item itemvalue="JavaScript Debug.Untitled-1.html" />
       <item itemvalue="JavaScript Debug.2.html" />
